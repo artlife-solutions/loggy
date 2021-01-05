@@ -10,7 +10,7 @@
     "build": "tsc"
   },
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bottleneck": "^1.15.0",
     "graygelf": "^1.2.0"
   },
